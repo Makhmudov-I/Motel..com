@@ -1,0 +1,14 @@
+1-coomand 
+Bu git init---git initialize--git start>boshla
+
+2-command
+git add fayl nomi
+
+3-coomand 
+git add-- index.html=> .git papkaga index.html fayldagi ma'lumotlarni qo'shadi
+* git add (  .  ) esa papkadagi barcha fayllar misol uchun (index.htnl, style.css....)
+papkaga ma'lumotlarni qo'shadi
+
+4-command
+git status
+* git status=> .git papkaga qoshilgan yoki qo'shilmagan papkalrni natijasini korstadi
