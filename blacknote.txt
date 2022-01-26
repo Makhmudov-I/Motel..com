@@ -12,3 +12,11 @@ papkaga ma'lumotlarni qo'shadi
 4-command
 git status
 * git status=> .git papkaga qoshilgan yoki qo'shilmagan papkalrni natijasini korstadi
+
+
+4-command
+git commit -m "Xohlagan xabaringiz" -m bu majburiy yozish kk
+*git commit -m "Xohlagan xabaringiz"=>
+5-command
+git config --global user.email "github dagi emailingiz"
+git config --global user.name "github dagi emailingiz"
